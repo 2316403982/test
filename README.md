@@ -1,2 +1,3 @@
 # test
 trainUse
+hello word!
